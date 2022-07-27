@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moizfayyaz1
 - 👀 I’m interested in full stack development and web frameworks.
-- 🌱 I’m currently learning front end development and moving onto the back end in a while.
+- 🌱 I know front end development and currently learning back end development. I'm learning the syntax of Python with Django so I can deploy my skills to build efficient backend servers 
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me ... You can email me at: moizfayyaz2@gmail.com
 
