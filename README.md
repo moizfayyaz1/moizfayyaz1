@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moizfayyaz1
 - 👀 I’m interested in full stack development and web frameworks. 
-- 🌱 I know front end development and currently learning back end development. My most recent work is a restful API that performs CRUD operations which are authenticated.The project was created with django and documented with swagger.
-- Now I'll continue my learning journey and get started with laravel.
+- 🌱 I know front end development and currently learning back end development. My most recent work is a Dall-e OpenAI clone which creates an AI generated image based on a prompt provided by the user. This project was completed using MERN stack.
+- I'll continue my learning journey with MERN stack technologies.
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me ... You can email me at: moizfayyaz2@gmail.com
 
